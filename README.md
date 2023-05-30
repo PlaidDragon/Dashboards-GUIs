@@ -17,7 +17,7 @@ A collection of dashboards/GUIs created in RShiny and Python
 
 It is based on Google's Lighthouse Algorithm which uses the Abramowitz and Stegun formula to derive a log-normal cumulative distribution function that can ultimately be used to derive a score of 0-1 from a given timing metric. Google uses a weighted average of several of these metrics to derive a site's ultimate Lighthouse Performance Score.
 
-personal note: this is my pride and joy, and by far my biggest undertaking as a solo project. Of all my GUIs, this one has the cumalitive of my knowledge base. This field is constantly changing, and with it the way Comet Score is calculated. For more SEO information, visit www.thisisoptimal.com
+personal note: this is my pride and joy, and by far my biggest undertaking as a solo project. Of all my GUIs, this one has the cumalitive of my knowledge base. This field is constantly changing, and with it the way Comet Score is calculated. I DO NOT give permission for this to be replicated or published in any way shape or form. For more SEO information, or information on Comet Score, visit www.thisisoptimal.com
 
 
 **Libraries used:** dplyr, json, plotly, stringr, shiny
